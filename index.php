@@ -1,93 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php include"vip/doctype.php"; ?>
 
-<head>
-
-    <!-- metas -->
-    <meta charset="utf-8">
-    <meta name="author" content="Website Design Templates">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="keywords" content="Leading Glass Company in Dubai, UAE">
     <meta name="description" content="Leading Glass Company in Dubai, UAE">
     <title>Leading Glass Company in Dubai, UAE</title>
-
-    <link rel="shortcut icon" href="img/logos/favicon.png">
-
-    <link rel="stylesheet" href="css/plugins.css">
-    <link rel="stylesheet" href="search/search.css">
-    <link rel="stylesheet" href="quform/css/base.css">
-    <link href="css/styles.css" rel="stylesheet">
-
 </head>
 
 <body>
 
-    <!-- PAGE LOADING
-    ================================================== -->
     <div id="preloader"></div>
-
-    <!-- MAIN WRAPPER
-    ================================================== -->
     <div class="main-wrapper">
-
-        <!-- HEADER
-        ================================================== -->
-        <header class="header-style2">
-
-            <div class="navbar-default border-bottom border-color-light-white">
-
-                <!-- start top search -->
-                <div class="top-search bg-primary">
-                    <div class="container-fluid px-lg-1-6 px-xl-2-5 px-xxl-2-9">
-                        <form class="search-form" action="search.html" method="GET" accept-charset="utf-8">
-                            <div class="input-group">
-                                <span class="input-group-addon cursor-pointer">
-                                    <button class="search-form_submit fas fa-search text-white" type="submit"></button>
-                                </span>
-                                <input type="text" class="search-form_input form-control" name="s" autocomplete="off" placeholder="Type & hit enter...">
-                                <span class="input-group-addon close-search mt-1"><i class="fas fa-times"></i></span>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <!-- end top search -->
-
-                <div class="container-fluid px-lg-1-6 px-xl-2-5 px-xxl-2-9">
-                    <div class="row align-items-center">
-                        <div class="col-12 col-lg-12">
-                            <div class="menu_area alt-font">
-                                <nav class="navbar navbar-expand-lg navbar-light p-0">
-                                    <div class="navbar-header navbar-header-custom">
-                                        <a href="index.html" class="navbar-brand logodefault">
-                                          <img id="logo" src="img/logos/logo.svg" width="246px" alt="logo" />
-                                        </a>
-                                    </div>
-                                    <div class="navbar-toggler bg-primary"></div>
-                                    <!-- start menu area -->
-                                    <ul class="navbar-nav ms-auto" id="nav" style="display: none;">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="#">About Us</a> </li>
-                                        <li><a href="#">Services</a> </li>
-                                        <li><a href="#">Projects</a> </li>
-                                        <li><a href="#">Contact Us</a> </li>
-                                    </ul>
-                                    <!-- end menu area -->
-
-                                    <!-- start attribute navigation -->
-                                    <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
-                                        <ul>
-                                            <li class="d-none d-xl-inline-block"><a href="contact.html" class="btn-style1 medium"><span>Free Quote</span></a></li>
-                                        </ul>
-                                    </div>
-                                    <!-- end attribute navigation -->
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include"vip/header.php"; ?>
 
         <!-- BANNER
         ================================================== -->
@@ -504,122 +426,7 @@
         </section>
 
         <!-- FOOTER ================================================== -->
-        <footer class="position-relative pt-0">
-            <div class="bg-primary py-1-9 mb-6 mb-xxl-10">
-                <div class="container">
-                    <div class="row mt-n1-9 align-items-center">
-                        <div class="col-md-6 col-lg-4 mt-1-9">
-                            <div class="d-flex align-items-center">
-                                <div class="flex-shrink-0">
-                                    <img src="img/icons/07.png" alt="...">
-                                </div>
-                                <div class="flex-grow-1 ms-3">
-                                    <p class="mb-0 text-white">Contact Us</p>
-                                    <h3 class="mb-0 h5 text-white">+971 4 267 4746</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 mt-1-9 text-start text-lg-center">
-                            <div class="footer-logo">
-                                <a href="index.html"><img src="img/logos/logo-white.svg" width="250px" alt="..."></a>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 mt-1-9">
-                            <div class="d-flex align-items-center text-lg-end">
-                                <div class="flex-grow-1 ms-3 ms-lg-0 me-lg-3 order-2 order-lg-1">
-                                    <p class="mb-0 text-white">Mail Us</p>
-                                    <h3 class="mb-0 h5 text-white">khaiberglassco@gmail.com</h3>
-                                </div>
-                                <div class="flex-shrink-0 order-1 order-lg-2">
-                                    <img src="img/icons/08.png" alt="...">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row mt-n5 pb-6 pb-xxl-10">
-                    <div class="col-md-6 col-lg-5 mt-5">
-                        <h3 class="text-white h5 mb-1-9">About Company</h3>
-                        <h4 class="text-white mb-1-9 fw-light w-75 display-27 lh-base opacity8">“Khaiber Star Safety Glass Factory L.L.C” was established in 2005 and offers an extensive gamut of services to esteemed clients across a spectrum of industries.</h4>
-                        <ul class="social-icon-style1">
-                            <li>
-                                <a href="#!"><i class="fab fa-facebook-f"></i></a>
-                            </li>
-                            <li>
-                                <a href="#!"><i class="fab fa-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href="#!"><i class="fab fa-youtube"></i></a>
-                            </li>
-                            <li>
-                                <a href="#!"><i class="fab fa-linkedin-in"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-6 col-lg-3 mt-5">
-                        <div class="ps-0">
-                            <h3 class="text-white h5 mb-1-9">Contacts</h3>
-                            <ul class="footer-link mb-0 list-unstyled">
-                                <li class="text-white mb-3">
-                                    <strong>Adress:</strong> <span class="opacity8">Near Galadari Driving School Al Qusais 4, P.O.BOX : 127061 Dubai, U.A.E</span>
-                                </li>
-                                <li class="text-white mb-3">
-                                    <strong>Email:</strong> <span class="opacity8">khaiberglassco@gmail.com</span>
-                                </li>
-                                <li class="text-white">
-                                    <strong>Phone:</strong> <span class="opacity8">+971 4 267 4746</span>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3 mt-5 offset-lg-1">
-                        <div class="ps-xl-4">
-                            <h3 class="text-white h5 mb-1-9">Newsletter</h3>
-                            <p class="text-white opacity8 mb-3">Subscribe to our newsletter to receive updates on the latest news!</p>
-                            <form class="quform newsletter-form" action="quform/newsletter-two.php.html" method="post" enctype="multipart/form-data" onclick="">
-
-                                <div class="quform-elements">
-                                    <div class="row">
-
-                                        <!-- Begin Text input element -->
-                                        <div class="col-md-12">
-                                            <div class="quform-element mb-0">
-                                                <div class="quform-input">
-                                                    <input class="form-control" id="email_address" type="text" name="email_address" placeholder="Subscribe with us">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- End Text input element -->
-
-                                        <!-- Begin Submit button -->
-                                        <div class="col-md-12">
-                                            <div class="quform-submit-inner">
-                                                <button class="btn btn-white text-white m-0" type="submit"><i class="fas fa-paper-plane"></i></button>
-                                            </div>
-                                            <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
-                                        </div>
-                                        <!-- End Submit button -->
-                                    </div>
-
-                                </div>
-
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="py-4 border-top border-color-light-white">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-12 text-center">
-                            <p class="d-inline-block text-white mb-0">&copy; <span class="current-year"></span> Khaiber Star Safety Glass Factory L.L.C. All Rights Reserved </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+        <?php include"vip/footer.php"; ?>
 
     </div>
 
@@ -627,34 +434,14 @@
     <!-- SCROLL TO TOP
     ================================================== -->
     <a href="#!" class="scroll-to-top"><i class="fas fa-angle-up" aria-hidden="true"></i></a>
-
-    <!-- all js include start -->
-
-    <!-- jQuery -->
     <script src="js/jquery.min.js"></script>
-
-    <!-- popper js -->
     <script src="js/popper.min.js"></script>
-
-    <!-- bootstrap -->
     <script src="js/bootstrap.min.js"></script>
-
-    <!-- jquery -->
     <script src="js/core.min.js"></script>
-
-    <!-- Search -->
     <script src="search/search.js"></script>
-
-    <!-- custom scripts -->
     <script src="js/main.js"></script>
-
-    <!-- form plugins js -->
     <script src="quform/js/plugins.js"></script>
-
-    <!-- form scripts js -->
     <script src="quform/js/scripts.js"></script>
-
-    <!-- all js include end -->
 
 </body>
 
