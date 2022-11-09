@@ -23,25 +23,25 @@
                     <div class="menu_area alt-font">
                         <nav class="navbar navbar-expand-lg navbar-light p-0">
                             <div class="navbar-header navbar-header-custom">
-                                <a href="index.html" class="navbar-brand logodefault">
+                                <a href="index.php" class="navbar-brand logodefault">
                                   <img id="logo" src="img/logos/logo.svg" width="246px" alt="logo" />
                                 </a>
                             </div>
                             <div class="navbar-toggler bg-primary"></div>
                             <!-- start menu area -->
                             <ul class="navbar-nav ms-auto" id="nav" style="display: none;">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="#">About Us</a> </li>
-                                <li><a href="#">Services</a> </li>
-                                <li><a href="#">Projects</a> </li>
-                                <li><a href="#">Contact Us</a> </li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about.php">About Us</a> </li>
+                                <li><a href="services.php">Services</a> </li>
+                                <li><a href="projects.php">Projects</a> </li>
+                                <li><a href="contact.php">Contact Us</a> </li>
                             </ul>
                             <!-- end menu area -->
 
                             <!-- start attribute navigation -->
                             <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
                                 <ul>
-                                    <li class="d-none d-xl-inline-block"><a href="contact.html" class="btn-style1 medium"><span>Free Quote</span></a></li>
+                                    <li class="d-none d-xl-inline-block"><a href="contact.html" class="btn-style1 medium"><span>Get a Free Quote</span></a></li>
                                 </ul>
                             </div>
                             <!-- end attribute navigation -->
