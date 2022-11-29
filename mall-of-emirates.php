@@ -20,7 +20,7 @@
                         </div>
                         <ul>
                             <li><a href="index.php">Home</a></li>
-                            <li><a href="#!">Sharjah International Airport, UAE</a></li>
+                            <li><a href="#!">Mall Of Emirates, Dubai</a></li>
                         </ul>
                     </div>
                 </div>
@@ -39,9 +39,9 @@
                 <div class="row">
                     <div class="col-lg-8 mt-n1-9">
                         <div class="pe-lg-1-9">
-                            <img src="img/portfolio/portfolio-details-01.jpg" class="mt-1-9" alt="...">
-                            <img src="img/portfolio/portfolio-details-02.jpg" class="mt-1-9" alt="...">
-                            <img src="img/portfolio/portfolio-details-03.jpg" class="mt-1-9" alt="...">
+                            <img src="img/portfolio/portfolio-details-04.jpg" class="mt-1-9" alt="...">
+                            <img src="img/portfolio/portfolio-details-05.jpg" class="mt-1-9" alt="...">
+                            <img src="img/portfolio/portfolio-details-06.jpg" class="mt-1-9" alt="...">
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -49,24 +49,8 @@
                             <div class="section-title left">
                                 <span class="sm-title">Explore Details</span>
                             </div>
-                            <h2 class="h1 mb-1-9">Sharjah International Airport, UAE</h2>
-                            <p>SEO & content writing consectetur adipiscing elit. Nulla accumsan felis magna, vel feugiat velit aliquet id. Sed iaculis odio pharetra vulputate efficitur. Etiam felis odio, auctor eget vehicula id, condimentum eu nisl. Vestibulum ornare efficitur lorem nec convallis.</p>
-                            <div class="mb-4">
-                                <h3 class="h5">Client</h3>
-                                <p class="mb-0">Theresa Dasilva</p>
-                            </div>
-                            <div class="mb-4">
-                                <h3 class="h5">Project Value</h3>
-                                <p class="mb-0">$679</p>
-                            </div>
-                            <div class="mb-4">
-                                <h3 class="h5">Date</h3>
-                                <p class="mb-0">June 14, 2022</p>
-                            </div>
-                            <div class="mb-4">
-                                <h3 class="h5">Category</h3>
-                                <p class="mb-0">XD Design</p>
-                            </div>
+                            <h2 class="h1 mb-1-9">Mall Of Emirates, Dubai</h2>
+                            <p>Seamlessly captivating that illuminates your brand and elaborates the perfection of your desires, experience the difference of our passion and professionalism, our glass installation work for various brands in the Mall Of Emirates</p>
 
                             <a href="contact.php" class="btn-style1 medium"><span>Get a Free Quote</span></a>
                         </div>

@@ -19,7 +19,7 @@
                             <h1>Contact Us</h1>
                         </div>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="#!">Contact Us</a></li>
                         </ul>
                     </div>

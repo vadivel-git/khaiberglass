@@ -16,11 +16,11 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="position-relative">
-                            <h1>Projects Details</h1>
+                            <h1>Certificates</h1>
                         </div>
                         <ul>
                             <li><a href="index.php">Home</a></li>
-                            <li><a href="#!">Sharjah International Airport, UAE</a></li>
+                            <li><a href="#!">Certificates</a></li>
                         </ul>
                     </div>
                 </div>
@@ -34,46 +34,38 @@
             </div>
         </section>
 
+
         <section>
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 mt-n1-9">
-                        <div class="pe-lg-1-9">
-                            <img src="img/portfolio/portfolio-details-01.jpg" class="mt-1-9" alt="...">
-                            <img src="img/portfolio/portfolio-details-02.jpg" class="mt-1-9" alt="...">
-                            <img src="img/portfolio/portfolio-details-03.jpg" class="mt-1-9" alt="...">
+                <div class="row mt-n1-9 gx-xxl-5">
+                    <div class="col-sm-6 col-lg-4 mt-1-9">
+                        <div class="card card-style-03 border-0 text-center primary-shadow">
+                            <div class="position-relative">
+                                <img src="img/content/certificate1.jpg" class="card-img-top" alt="...">
+                            </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div>
-                            <div class="section-title left">
-                                <span class="sm-title">Explore Details</span>
+                    <div class="col-sm-6 col-lg-4 mt-1-9">
+                        <div class="card card-style-03 border-0 text-center primary-shadow">
+                            <div class="position-relative">
+                                <img src="img/content/certificate2.jpg" class="card-img-top" alt="...">
                             </div>
-                            <h2 class="h1 mb-1-9">Sharjah International Airport, UAE</h2>
-                            <p>SEO & content writing consectetur adipiscing elit. Nulla accumsan felis magna, vel feugiat velit aliquet id. Sed iaculis odio pharetra vulputate efficitur. Etiam felis odio, auctor eget vehicula id, condimentum eu nisl. Vestibulum ornare efficitur lorem nec convallis.</p>
-                            <div class="mb-4">
-                                <h3 class="h5">Client</h3>
-                                <p class="mb-0">Theresa Dasilva</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4 mt-1-9">
+                        <div class="card card-style-03 border-0 text-center primary-shadow">
+                            <div class="position-relative">
+                                <img src="img/content/certificate3.jpg" class="card-img-top" alt="...">
                             </div>
-                            <div class="mb-4">
-                                <h3 class="h5">Project Value</h3>
-                                <p class="mb-0">$679</p>
-                            </div>
-                            <div class="mb-4">
-                                <h3 class="h5">Date</h3>
-                                <p class="mb-0">June 14, 2022</p>
-                            </div>
-                            <div class="mb-4">
-                                <h3 class="h5">Category</h3>
-                                <p class="mb-0">XD Design</p>
-                            </div>
-
-                            <a href="contact.php" class="btn-style1 medium"><span>Get a Free Quote</span></a>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
+
+
+
         <!-- FOOTER ================================================== -->
         <?php include"vip/footer.php"; ?>
 

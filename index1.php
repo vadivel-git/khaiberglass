@@ -13,12 +13,12 @@
 
         <!-- BANNER
         ================================================== -->
-        <section class="py-0 mx-lg-1-6 mx-xl-2-5 mx-xxl-2-9">
+        <section class="py-0 ">
             <div class="slider-fade1 owl-carousel owl-theme w-100">
-                <div class="item bg-img cover-background pt-14 pb-22 py-sm-18 py-lg-20 py-xl-24" data-background="img/banner/slide-01.jpg">
+                <div class="item bg-img cover-background pt-14 pb-22 py-sm-18 py-lg-20 py-xl-24" data-background="img/banner/slide-04.jpg">
                     <div class="container position-relative z-index-9">
                         <div class="row align-items-center justify-content-xl-end">
-                            <div class="col-lg-9 col-xl-7 col-xxl-6 white-text">
+                            <div class="col-lg-9 col-xl-7 col-xxl-6">
                                 <h1 class="display-16 display-sm-7 display-lg-4 display-xl-3 mb-2-9">Fastest Way To Achieve Success.</h1>
                                 <p class="mb-2-3 font-weight-500 lead d-none d-sm-block">We’re committed to providing customers exceptional service offering employees the best training.</p>
                                 <a href="contact.php" class="btn-style1"><span>Get Started</span></a>
@@ -26,7 +26,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="item bg-img cover-background pt-14 pb-22 py-sm-18 py-lg-20 py-xl-24" data-background="img/banner/slide-02.jpg">
+                <div class="item bg-img cover-background pt-14 pb-22 py-sm-18 py-lg-20 py-xl-24" data-background="img/banner/slide-05.jpg">
                     <div class="container position-relative z-index-9">
                         <div class="row align-items-center justify-content-xl-end">
                             <div class="col-lg-9 col-xl-7 col-xxl-6 ">
@@ -37,7 +37,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="item bg-img cover-background pt-14 pb-22 py-sm-18 py-lg-20 py-xl-24" data-background="img/banner/slide-03.jpg">
+                <div class="item bg-img cover-background pt-14 pb-22 py-sm-18 py-lg-20 py-xl-24" data-background="img/banner/slide-06.jpg">
                     <div class="container position-relative z-index-9">
                         <div class="row align-items-center justify-content-xl-end">
                             <div class="col-lg-9 col-xl-7 col-xxl-6 ">
@@ -58,66 +58,48 @@
             </div>
         </section>
 
-        <section class="pt-100">
+        <section class="overflow-visible">
             <div class="container position-relative z-index-3">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 mb-1-9 mb-lg-0">
-                        <div class="position-relative text-center pb-sm-22 me-xl-1-9">
-                            <img src="img/content/about3.jpg" class="position-relative z-index-2" alt="...">
-                            <img src="img/content/about4.jpg" class="position-absolute bottom bottom-sm-10 left z-index-3 d-none d-sm-block" alt="...">
-                            <img src="img/content/about5.jpg" class="position-absolute bottom-0 right z-index-1 d-none d-sm-block" alt="...">
-                            <div class="p-4 bg-white shadow right right-sm-5 top-10 position-absolute z-index-3">
-                                <img src="img/content/chart.png" alt="...">
+                <div class="row align-items-center about-style-03">
+                    <div class="col-lg-6">
+                        <div class="pe-lg-1-9">
+                            <div class="section-title mb-1-9">
+                                <span class="sm-title">About Us</span>
+                                <h2 class="mb-0 h1">We’re Delivering The Best Customer Experience</h2>
+                            </div>
+                            <div class="mb-1-9">
+                                <div class="d-flex about-text mb-1-9">
+                                    <div class="flex-shrink-0">
+                                        <i class="fa-brands fa-gitter"></i>
+                                    </div>
+                                    <div class="flex-grow-1 ms-3">
+                                        <h4 class="h5">Our Mission</h4>
+                                        <p class="mb-0">Our Mission is to be the industry's top-ratede provider issuer enterprise targeting satisfying the most to our clients.</p>
+                                    </div>
+                                </div>
+                                <div class="d-flex about-text">
+                                    <div class="flex-shrink-0">
+                                        <i class="fa-brands fa-unity"></i>
+                                    </div>
+                                    <div class="flex-grow-1 ms-3">
+                                        <h4 class="h5">Our Vision</h4>
+                                        <p class="mb-0">Our Vision is to be a top Web Design company in the IT sector and progress in our current position in the market.</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 about-style-03">
-                        <div class="ps-lg-2-9">
-                            <div class="section-title">
-                                <span class="sm-title">About Us</span>
+                    <div class="col-lg-6">
+                        <div class="ps-lg-2-9 position-relative text-center text-sm-start">
+                            <img src="img/content/about7.jpg" alt="...">
+                            <div class="about-img d-none d-sm-block">
+                                <img src="img/content/about6.jpg" alt="...">
                             </div>
-                            <h2 class="h1 mb-1-9">Welcome to Khaiber Star</h2>
-                            <p class="mb-1-9">“Khaiber Star Safety Glass Factory L.L.C” was established in 2005 and offers an extensive gamut of services to esteemed clients across a spectrum of industries.</p>
-                            <p class="mb-1-9">The company was constituted under the management of KSSGF. The company has its own manufacturing facility with a floor area 50,000 sqft. And is able to accommodate the office, store and machinery.</p>
-
-                            <div class="mb-1-9">
-                                <a href="certificate.php">
-                                  <div class="d-flex about-text mb-1-9">
-                                      <div class="flex-grow-1 ms-3 certificates">
-                                          <h4 class="h5">Our Certificates</h4>
-                                          <img src="img/content/QAQC-IMS-NLogo.jpg" alt="" width="100px">
-                                          <img src="img/content/QAQC9001-NLogo.jpg" alt="" width="100px">
-                                          <img src="img/content/QAQC14001-NLogo.jpg" alt="" width="100px">
-                                          <img src="img/content/QAQC45001-NLogo.jpg" alt="" width="100px">
-                                      </div>
-                                  </div>
-                                </a>
-                            </div>
-
-
-                            <div class="d-sm-flex mb-2-9">
-                                <div class="pe-sm-1-9 border-sm-end text-sm-center mb-3 mb-sm-0">
-                                    <h3 class="display-16 display-sm-10 display-lg-7 text-primary">17</h3>
-                                    <p class="mb-0 text-secondary">Years Experience</p>
-                                </div>
-                                <div class="ps-sm-1-9">
-                                    <ul class="list-style2 mb-0">
-                                        <li>Specific Performance</li>
-                                        <li>Characteristics In Terms Of Strength</li>
-                                        <li>Visible Light Transmission</li>
-                                        <li>Solar Reflectance</li>
-                                        <li>Shading Coefficient</li>
-                                    </ul>
-                                </div>
-                            </div>
-
-
-                            <a href="about.php" class="btn-style1"><span>Read more</span></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <img src="img/bg/bg-05.png" class="position-absolute bottom-0 right" alt="...">
+            <!-- <img src="img/bg/bg-06.png" class="position-absolute left bottom-5 opacity4" alt="..."> -->
         </section>
 
         <!-- SERVICES
@@ -138,9 +120,9 @@
                                     </div>
                                 </div>
                                 <div class="flex-grow-1 ms-3 ms-lg-4">
-                                    <h3 class="h5 mb-3"><a href="our-services.php" class="text-white">Glass Tempering</a></h3>
+                                    <h3 class="h5 mb-3"><a href="information-security.html" class="text-white">Glass Tempering</a></h3>
                                     <p class="mb-3 text-white opacity7">We focus on the best practices for it solutions and services.</p>
-                                    <a href="our-services.php" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
+                                    <a href="#!" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -154,9 +136,9 @@
                                     </div>
                                 </div>
                                 <div class="flex-grow-1 ms-3 ms-lg-4">
-                                    <h3 class="h5 mb-3"><a href="our-services.php" class="text-white">Glass Lamination</a></h3>
+                                    <h3 class="h5 mb-3"><a href="mobile-platforms.html" class="text-white">Glass Lamination</a></h3>
                                     <p class="mb-3 text-white opacity7">We focus on the best practices for it solutions and services.</p>
-                                    <a href="our-services.php" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
+                                    <a href="#!" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -170,9 +152,9 @@
                                     </div>
                                 </div>
                                 <div class="flex-grow-1 ms-3 ms-lg-4">
-                                    <h3 class="h5 mb-3"><a href="our-services.php" class="text-white">Double Glazing</a></h3>
+                                    <h3 class="h5 mb-3"><a href="data-synchronization.html" class="text-white">Double Glazing</a></h3>
                                     <p class="mb-3 text-white opacity7">We focus on the best practices for it solutions and services.</p>
-                                    <a href="our-services.php" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
+                                    <a href="#!" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -186,9 +168,9 @@
                                     </div>
                                 </div>
                                 <div class="flex-grow-1 ms-3 ms-lg-4">
-                                    <h3 class="h5 mb-3"><a href="our-services.php" class="text-white">Glass Services</a></h3>
+                                    <h3 class="h5 mb-3"><a href="process-automation.html" class="text-white">Glass Services</a></h3>
                                     <p class="mb-3 text-white opacity7">We focus on the best practices for it solutions and services.</p>
-                                    <a href="our-services.php" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
+                                    <a href="#!" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -202,9 +184,9 @@
                                     </div>
                                 </div>
                                 <div class="flex-grow-1 ms-3 ms-lg-4">
-                                    <h3 class="h5 mb-3"><a href="our-services.php" class="text-white">Partitions in Glass & Aluminum</a></h3>
+                                    <h3 class="h5 mb-3"><a href="event-processing.html" class="text-white">Partitions in Glass & Aluminum</a></h3>
                                     <p class="mb-3 text-white opacity7">We focus on the best practices for it solutions and services.</p>
-                                    <a href="our-services.php" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
+                                    <a href="#!" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -218,9 +200,9 @@
                                     </div>
                                 </div>
                                 <div class="flex-grow-1 ms-3 ms-lg-4">
-                                    <h3 class="h5 mb-3"><a href="our-services.php" class="text-white">Shop fronts and office partitions</a></h3>
+                                    <h3 class="h5 mb-3"><a href="content-management.html" class="text-white">Shop fronts and office partitions</a></h3>
                                     <p class="mb-3 text-white opacity7">We focus on the best practices for it solutions and services.</p>
-                                    <a href="our-services.php" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
+                                    <a href="#!" class="text-white">Read more <i class="ti-arrow-right align-middle ms-1"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -243,9 +225,9 @@
                             <img src="img/portfolio/01.jpg" alt="...">
                         </div>
                         <div class="portfolio-content">
-                            <h3 class="mb-3 h4"><a href="sharjah-international.php">SHARJAH INTERNATIONAL AIRPORT, U.A.E</a></h3>
+                            <h3 class="mb-3 h4"><a href="portfolio-details.html">SHARJAH INTERNATIONAL AIRPORT, U.A.E</a></h3>
                             <p>Khaiber star safety glass is a renowned company since 2009. Starting from tempering of glass, company has gre</p>
-                            <a href="sharjah-international.php">Project Details <i class="ti-arrow-right align-middle"></i></a>
+                            <a href="portfolio-details.html">Project Details <i class="ti-arrow-right align-middle"></i></a>
                         </div>
                     </div>
                     <div class="portfolio-style01 mb-2-3">
@@ -253,9 +235,9 @@
                             <img src="img/portfolio/02.jpg" alt="...">
                         </div>
                         <div class="portfolio-content">
-                          <h3 class="mb-3 h4"><a href="mall-of-emirates.php">MALL OF EMIRATES, DUBAI</a></h3>
+                          <h3 class="mb-3 h4"><a href="portfolio-details.html">MALL OF EMIRATES, DUBAI</a></h3>
                           <p>Seamlessly captivating that illuminates your brand and elaborates the perfection of your desires, experience</p>
-                          <a href="mall-of-emirates.php">Project Details <i class="ti-arrow-right align-middle"></i></a>
+                          <a href="portfolio-details.html">Project Details <i class="ti-arrow-right align-middle"></i></a>
                         </div>
                     </div>
                     <div class="portfolio-style01 mb-2-3">
@@ -263,19 +245,9 @@
                             <img src="img/portfolio/03.jpg" alt="...">
                         </div>
                         <div class="portfolio-content">
-                          <h3 class="mb-3 h4"><a href="dubai-mall.php">DUBAI MALL</a></h3>
+                          <h3 class="mb-3 h4"><a href="portfolio-details.html">DUBAI MALL</a></h3>
                           <p>Seamlessly captivating that illuminates your brand and elaborates the perfection of your desires, experience</p>
-                          <a href="dubai-mall.php">Project Details <i class="ti-arrow-right align-middle"></i></a>
-                        </div>
-                    </div>
-                    <div class="portfolio-style01 mb-2-3">
-                        <div class="portfolio-img">
-                            <img src="img/portfolio/03-3.jpg" alt="...">
-                        </div>
-                        <div class="portfolio-content">
-                          <h3 class="mb-3 h4"><a href="ibn-battuta-mall.php">Ibn Battuta Mall</a></h3>
-                          <p>Seamlessly captivating that illuminates your brand and elaborates the perfection of your desires, experience</p>
-                          <a href="ibn-battuta-mall.php">Project Details <i class="ti-arrow-right align-middle"></i></a>
+                          <a href="portfolio-details.html">Project Details <i class="ti-arrow-right align-middle"></i></a>
                         </div>
                     </div>
                     <div class="portfolio-style01 mb-2-3">
@@ -283,9 +255,9 @@
                             <img src="img/portfolio/04.jpg" alt="...">
                         </div>
                         <div class="portfolio-content">
-                          <h3 class="mb-3 h4"><a href="al-ghurair-centre.php">AL GHURAIR CENTRE</a></h3>
+                          <h3 class="mb-3 h4"><a href="portfolio-details.html">AL GHURAIR CENTRE</a></h3>
                           <p>Seamlessly captivating that illuminates your brand and elaborates the perfection of your desires, experience</p>
-                          <a href="al-ghurair-centre.php">Project Details <i class="ti-arrow-right align-middle"></i></a>
+                          <a href="portfolio-details.html">Project Details <i class="ti-arrow-right align-middle"></i></a>
                         </div>
                     </div>
                     <div class="portfolio-style01 mb-2-3">
@@ -293,29 +265,9 @@
                             <img src="img/portfolio/05.jpg" alt="...">
                         </div>
                         <div class="portfolio-content">
-                          <h3 class="mb-3 h4"><a href="mdina-mall.php">MDINA MALL, DUBAI</a></h3>
+                          <h3 class="mb-3 h4"><a href="portfolio-details.html">MDINA MALL, DUBAI</a></h3>
                           <p>Seamlessly captivating that illuminates your brand and elaborates the perfection of your desires, experience</p>
-                          <a href="mdina-mall.php">Project Details <i class="ti-arrow-right align-middle"></i></a>
-                        </div>
-                    </div>
-                    <div class="portfolio-style01 mb-2-3">
-                        <div class="portfolio-img">
-                            <img src="img/portfolio/03-4.jpg" alt="...">
-                        </div>
-                        <div class="portfolio-content">
-                          <h3 class="mb-3 h4"><a href="al-ramal.php">Al Ramal</a></h3>
-                          <p>Seamlessly captivating that illuminates your brand and elaborates the perfection of your desires, experience</p>
-                          <a href="al-ramal.php">Project Details <i class="ti-arrow-right align-middle"></i></a>
-                        </div>
-                    </div>
-                    <div class="portfolio-style01 mb-2-3">
-                        <div class="portfolio-img">
-                            <img src="img/portfolio/03-5.jpg" alt="...">
-                        </div>
-                        <div class="portfolio-content">
-                          <h3 class="mb-3 h4"><a href="al-majaz-waterfront-park.php">Al Majaz Waterfront Park</a></h3>
-                          <p>Seamlessly captivating that illuminates your brand and elaborates the perfection of your desires, experience</p>
-                          <a href="al-majaz-waterfront-park.php">Project Details <i class="ti-arrow-right align-middle"></i></a>
+                          <a href="portfolio-details.html">Project Details <i class="ti-arrow-right align-middle"></i></a>
                         </div>
                     </div>
 

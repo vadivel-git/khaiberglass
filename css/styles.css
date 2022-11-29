@@ -6,3 +6,14 @@
 .main-wrapper {
     background: #000000;
 }
+
+.certificates img {
+    padding: 0;
+    margin: 18px 9px 0;
+}
+
+.tap-services .resp-tabs-list li{display: block;margin: 8px 0;}
+.tap-services .resp-tab-content{padding: 0 40px;}
+.pull-left{float: left;}
+.mlr-1{margin: 0 10px;}
+.our-taps span {font-size: 14px;}

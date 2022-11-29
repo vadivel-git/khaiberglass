@@ -51,7 +51,7 @@
                             </div>
                             <h2 class="h1 mb-1-9">Sharjah International Airport, UAE</h2>
                             <p>SEO & content writing consectetur adipiscing elit. Nulla accumsan felis magna, vel feugiat velit aliquet id. Sed iaculis odio pharetra vulputate efficitur. Etiam felis odio, auctor eget vehicula id, condimentum eu nisl. Vestibulum ornare efficitur lorem nec convallis.</p>
-                            <div class="mb-4">
+                            <!-- <div class="mb-4">
                                 <h3 class="h5">Client</h3>
                                 <p class="mb-0">Theresa Dasilva</p>
                             </div>
@@ -66,7 +66,7 @@
                             <div class="mb-4">
                                 <h3 class="h5">Category</h3>
                                 <p class="mb-0">XD Design</p>
-                            </div>
+                            </div> -->
 
                             <a href="contact.php" class="btn-style1 medium"><span>Get a Free Quote</span></a>
                         </div>

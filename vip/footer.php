@@ -9,13 +9,13 @@
                         </div>
                         <div class="flex-grow-1 ms-3">
                             <p class="mb-0 text-white">Contact Us</p>
-                            <h3 class="mb-0 h5 text-white">+971 4 267 4746</h3>
+                            <h3 class="mb-0 h5 text-white">+971 4 267 7756 </h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mt-1-9 text-start text-lg-center">
                     <div class="footer-logo">
-                        <a href="index.html"><img src="img/logos/logo-white.svg" width="250px" alt="..."></a>
+                        <a href="index.php"><img src="img/logos/logo-white.svg" width="250px" alt="..."></a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mt-1-9">
@@ -45,61 +45,41 @@
                         <a href="#!"><i class="fab fa-twitter"></i></a>
                     </li>
                     <li>
-                        <a href="#!"><i class="fab fa-youtube"></i></a>
-                    </li>
-                    <li>
                         <a href="#!"><i class="fab fa-linkedin-in"></i></a>
                     </li>
                 </ul>
             </div>
             <div class="col-md-6 col-lg-3 mt-5">
                 <div class="ps-0">
-                    <h3 class="text-white h5 mb-1-9">Contacts</h3>
+                    <h3 class="text-white h5 mb-1-9">Office Address</h3>
                     <ul class="footer-link mb-0 list-unstyled">
                         <li class="text-white mb-3">
                             <strong>Adress:</strong> <span class="opacity8">Near Galadari Driving School Al Qusais 4, P.O.BOX : 127061 Dubai, U.A.E</span>
                         </li>
-                        <li class="text-white mb-3">
-                            <strong>Email:</strong> <span class="opacity8">khaiberglassco@gmail.com</span>
-                        </li>
-                        <li class="text-white">
-                            <strong>Phone:</strong> <span class="opacity8">+971 4 267 4746</span>
-                        </li>
+
                     </ul>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-3 mt-5 offset-lg-1">
-                <div class="ps-xl-4">
-                    <h3 class="text-white h5 mb-1-9">Newsletter</h3>
-                    <p class="text-white opacity8 mb-3">Subscribe to our newsletter to receive updates on the latest news!</p>
-                    <form class="quform newsletter-form" action="quform/newsletter-two.php.html" method="post" enctype="multipart/form-data" onclick="">
-
-                        <div class="quform-elements">
-                            <div class="row">
-
-                                <!-- Begin Text input element -->
-                                <div class="col-md-12">
-                                    <div class="quform-element mb-0">
-                                        <div class="quform-input">
-                                            <input class="form-control" id="email_address" type="text" name="email_address" placeholder="Subscribe with us">
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Text input element -->
-
-                                <!-- Begin Submit button -->
-                                <div class="col-md-12">
-                                    <div class="quform-submit-inner">
-                                        <button class="btn btn-white text-white m-0" type="submit"><i class="fas fa-paper-plane"></i></button>
-                                    </div>
-                                    <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
-                                </div>
-                                <!-- End Submit button -->
-                            </div>
-
-                        </div>
-
-                    </form>
+            <div class="col-md-6 col-lg-3 mt-5">
+                <div class="ps-0">
+                    <h3 class="text-white h5 mb-1-9">Contacts</h3>
+                    <ul class="footer-link mb-0 list-unstyled">
+                        <li class="text-white mb-3">
+                            <strong>Email:</strong> <span class="opacity8">khaiberglassco@gmail.com</span>
+                        </li>
+                        <li class="text-white mb-3">
+                            <strong>Email:</strong> <span class="opacity8">info@khaiberglass.com</span>
+                        </li>
+                        <li class="text-white mb-3">
+                            <strong>Email:</strong> <span class="opacity8">accounts@khaiberglass.com</span>
+                        </li>
+                        <li class="text-white">
+                            <strong>Phone:</strong> <span class="opacity8">+971 4 267 7756</span>
+                        </li>
+                        <li class="text-white">
+                            <strong>Fax:</strong> <span class="opacity8">+971 4 267 7756</span>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>

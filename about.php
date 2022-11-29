@@ -19,7 +19,7 @@
                             <h1>About Us</h1>
                         </div>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="#!">About Us</a></li>
                         </ul>
                     </div>

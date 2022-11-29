@@ -2,7 +2,7 @@
     <div class="navbar-default border-bottom border-color-light-white">
 
         <!-- start top search -->
-        <div class="top-search bg-primary">
+        <!-- <div class="top-search bg-primary">
             <div class="container-fluid px-lg-1-6 px-xl-2-5 px-xxl-2-9">
                 <form class="search-form" action="search.html" method="GET" accept-charset="utf-8">
                     <div class="input-group">
@@ -14,7 +14,7 @@
                     </div>
                 </form>
             </div>
-        </div>
+        </div> -->
         <!-- end top search -->
 
         <div class="container-fluid px-lg-1-6 px-xl-2-5 px-xxl-2-9">
@@ -28,23 +28,24 @@
                                 </a>
                             </div>
                             <div class="navbar-toggler bg-primary"></div>
-                            <!-- start menu area -->
                             <ul class="navbar-nav ms-auto" id="nav" style="display: none;">
                                 <li><a href="index.php">Home</a></li>
-                                <li><a href="about.php">About Us</a> </li>
-                                <li><a href="services.php">Services</a> </li>
+                                <li>
+                                    <a href="#!">Company</a>
+                                    <ul>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li><a href="certificate.php">Certificates</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="our-services.php">Services</a> </li>
                                 <li><a href="projects.php">Projects</a> </li>
                                 <li><a href="contact.php">Contact Us</a> </li>
                             </ul>
-                            <!-- end menu area -->
-
-                            <!-- start attribute navigation -->
                             <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
                                 <ul>
-                                    <li class="d-none d-xl-inline-block"><a href="contact.html" class="btn-style1 medium"><span>Get a Free Quote</span></a></li>
+                                    <li class="d-none d-xl-inline-block"><a href="contact.php" class="btn-style1 medium"><span>Get a Free Quote</span></a></li>
                                 </ul>
                             </div>
-                            <!-- end attribute navigation -->
                         </nav>
                     </div>
                 </div>

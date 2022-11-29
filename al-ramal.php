@@ -20,7 +20,7 @@
                         </div>
                         <ul>
                             <li><a href="index.php">Home</a></li>
-                            <li><a href="#!">Sharjah International Airport, UAE</a></li>
+                            <li><a href="#!">Al Ramal</a></li>
                         </ul>
                     </div>
                 </div>
@@ -39,9 +39,7 @@
                 <div class="row">
                     <div class="col-lg-8 mt-n1-9">
                         <div class="pe-lg-1-9">
-                            <img src="img/portfolio/portfolio-details-01.jpg" class="mt-1-9" alt="...">
-                            <img src="img/portfolio/portfolio-details-02.jpg" class="mt-1-9" alt="...">
-                            <img src="img/portfolio/portfolio-details-03.jpg" class="mt-1-9" alt="...">
+                            <img src="img/portfolio/portfolio-details-17.jpg" class="mt-1-9" alt="...">
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -49,24 +47,20 @@
                             <div class="section-title left">
                                 <span class="sm-title">Explore Details</span>
                             </div>
-                            <h2 class="h1 mb-1-9">Sharjah International Airport, UAE</h2>
-                            <p>SEO & content writing consectetur adipiscing elit. Nulla accumsan felis magna, vel feugiat velit aliquet id. Sed iaculis odio pharetra vulputate efficitur. Etiam felis odio, auctor eget vehicula id, condimentum eu nisl. Vestibulum ornare efficitur lorem nec convallis.</p>
+                            <h2 class="h1 mb-1-9">Al Ramal, Dubai.</h2>
                             <div class="mb-4">
                                 <h3 class="h5">Client</h3>
-                                <p class="mb-0">Theresa Dasilva</p>
+                                <p class="mb-0">Al Ramal</p>
                             </div>
                             <div class="mb-4">
-                                <h3 class="h5">Project Value</h3>
-                                <p class="mb-0">$679</p>
+                                <h3 class="h5">Description</h3>
+                                <p class="mb-0">10mm clear glass for Tempering , 12mm Clear Glass Tempering</p>
                             </div>
                             <div class="mb-4">
-                                <h3 class="h5">Date</h3>
-                                <p class="mb-0">June 14, 2022</p>
+                                <h3 class="h5">Size</h3>
+                                <p class="mb-0">20,000 SQM  & 22,000 SQM</p>
                             </div>
-                            <div class="mb-4">
-                                <h3 class="h5">Category</h3>
-                                <p class="mb-0">XD Design</p>
-                            </div>
+
 
                             <a href="contact.php" class="btn-style1 medium"><span>Get a Free Quote</span></a>
                         </div>
