@@ -17,3 +17,15 @@
 .pull-left{float: left;}
 .mlr-1{margin: 0 10px;}
 .our-taps span {font-size: 14px;}
+
+
+.whatsapp {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 0;
+    position: fixed;
+    right: 1.5%;
+    bottom: 16%;
+    z-index: 1000;
+}

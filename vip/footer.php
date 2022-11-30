@@ -57,6 +57,13 @@
                             <strong>Adress:</strong> <span class="opacity8">Near Galadari Driving School Al Qusais 4, P.O.BOX : 127061 Dubai, U.A.E</span>
                         </li>
 
+                        <li class="text-white mb-3">
+                            <strong>Mobile:</strong> <span class="opacity8">055 105 0584</span>
+                        </li>
+                        <li class="text-white mb-3">
+                            <strong>Mobile:</strong> <span class="opacity8">052 109 9773</span>
+                        </li>
+
                     </ul>
                 </div>
             </div>
@@ -94,3 +101,6 @@
         </div>
     </div>
 </footer>
+
+
+<div class="whatsapp"><a href="https://wa.me/971508794182?text=" target="_blank"><i><img src="img/whatsapp.svg" width="64px"></i></a></div>
